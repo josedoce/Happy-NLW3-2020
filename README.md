@@ -1,6 +1,6 @@
 # Happy 1.0
 ##### Future versions in development .../ futuras versões em desenvolvimento...
-#Projeto
+
 ## Projeto
 #### O happy app é um aplicativo que busca conectar futuros visitantes aos orfanatos.
 
